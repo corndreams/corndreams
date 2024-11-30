@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;World;!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!)
 About me <br />
 😄 name: corndreams <br />
 👯 Gender: Male <br />
