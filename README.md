@@ -19,4 +19,6 @@ About me <br />
 👯 Gender: Male <br />
 🤔 blog: http://blog.corndreams.ink <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corndreams)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corndreams)
+
 
