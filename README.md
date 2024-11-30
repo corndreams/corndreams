@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 About me <br />
 😄 name: corndreams <br />
 👯 Gender: Male <br />
-🤔 blog: http://blog.corndreams.ink
+🤔 blog: http://blog.corndreams.ink <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corndreams)
 
