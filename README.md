@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 I'm corndreams
 
 <!--
 **corndreams/corndreams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About me
+😄 name: corndreams
+👯 Gender: Male
+🤔 blog: http://blog.corndreams.ink
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corndreams)
+
