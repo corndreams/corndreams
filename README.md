@@ -25,6 +25,8 @@ About me <br />
 
 <br />
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=corndreams)(https://github.com/corndreams)
+![GitHub Streak](https://streak-stats.demolab.com/?user=corndreams)
+
 
 
 
