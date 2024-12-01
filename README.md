@@ -24,7 +24,7 @@ About me <br />
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=corndreams)
 
 <br />
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=corndreams)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=corndreams)](https://github.com/corndreams)
 
 
 
