@@ -24,6 +24,7 @@ About me <br />
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=corndreams)
 
 <br />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=corndreams&left_color=green&right_color=red)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=corndreams)
+
 
 
