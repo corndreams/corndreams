@@ -1,6 +1,6 @@
 <!-- 顶部打字机标题 -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=480&lines=你好，我是 corndreams;前端开发者 | 游戏脚本爱好者;以码为剑，静修不辍&center=true&size=26&color=74C0FC">
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=800&width=480&lines=你好，我是 corndreams;前端开发者 | 游戏脚本爱好者;以码为剑，静修不辍&center=true&size=26&color=74C0FC">
 </div>
 
 <br />
