@@ -1,6 +1,6 @@
 <!-- 顶部打字机标题 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=480&lines=你好，我是 corndreams;前端开发者+%7C+游戏脚本爱好者;以码为剑，静修不辍&center=true&size=26&color=74C0FC">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&width=480&lines=你好，我是 corndreams;前端开发者 | 游戏脚本爱好者;以码为剑，静修不辍&center=true&size=26&color=74C0FC">
 </div>
 
 <br />
@@ -13,7 +13,7 @@
 <!-- 社交与访问统计栏（保持简洁且防花屏） -->
 <div align="center">
   <a href="https://blog.corndreams.top">
-    <img src="https://img.shields.io/badge/访问个人博客-0d1117?style=for-the-badge&logo=book&logoColor=74C0FC&labelColor=212529">
+    <img src="https://img.shields.io/badge/访问个人博客blog.corndreams.top-0d1117?style=for-the-badge&logo=book&logoColor=74C0FC&labelColor=212529">
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=corndreams&label=Views&color=74C0FC&style=flat-square" alt="主页访问量" />
